@@ -27,3 +27,5 @@ resource "aws_launch_configuration" "asg_lc" {
               echo "hello, world" > /tmp/hello.txt
               EOF
 }
+ resource
+ 
